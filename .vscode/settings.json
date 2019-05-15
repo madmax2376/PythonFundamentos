@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\Mauricio\\AppData\\Local\\conda\\conda\\envs\\python3.7_DSML\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.banditEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pep8Enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylamaEnabled": true,
+    "python.linting.prospectorEnabled": true
+}
